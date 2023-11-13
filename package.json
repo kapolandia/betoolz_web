@@ -1,0 +1,1 @@
+{"dependencies":{"gulp":"^4.0.2","gulp-debug":"^3.2.0","gulp-javascript-obfuscator":"^1.1.6","gulp-replace":"^1.1.4","gulp-src-ordered-globs":"^1.0.3","gulp-zip":"^4.2.0"},"overrides":{"chokidar":"3.5.3","glob-parent":"6.0.2"}}
